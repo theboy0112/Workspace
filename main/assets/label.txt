@@ -1,0 +1,5 @@
+Axe
+Grenade
+Gun
+Knife
+Knuckles
